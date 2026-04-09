@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+}
+
+.noise {
+  background-image: radial-gradient(circle at 20% 0%, rgba(109, 94, 243, 0.25), transparent 40%),
+    radial-gradient(circle at 90% 30%, rgba(34, 211, 238, 0.14), transparent 40%),
+    radial-gradient(circle at 20% 80%, rgba(34, 211, 238, 0.1), transparent 45%),
+    radial-gradient(circle at 70% 90%, rgba(109, 94, 243, 0.18), transparent 45%);
+}
+
