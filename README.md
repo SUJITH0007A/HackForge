@@ -1,6 +1,6 @@
 # HackForge
 
-HackForge is a production-style, event operating system for hackathons, datathons, coding contests, and college technical events.
+HackForge is a production-style, event operating system for hackathons, datathons, coding contests, and college technical events. And analyze them
 
 ## Structure
 
